@@ -35,10 +35,6 @@ I focus on front-end development but also do game development as a hobby.
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" >
 </a>
 
-<a href="mailto:***REMOVED***?subject=Hello&body=Hi!">
-  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-</a>
-
 ## What am I Working On?
 
 To find more about my work, visit [Github](https://github.com/Zehua-Chen),
