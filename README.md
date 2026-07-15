@@ -37,6 +37,6 @@ I focus on front-end development but also do game development as a hobby.
 
 ## What am I Working On?
 
-To find more about my work, visit [Github](https://github.com/Zehua-Chen),
+To find more about my work, visit [Github](https://github.com/zehuac2),
 [my personal homepage](https://zehua-chen-2021.netlify.app/) or **see the pinned
 repos below**
